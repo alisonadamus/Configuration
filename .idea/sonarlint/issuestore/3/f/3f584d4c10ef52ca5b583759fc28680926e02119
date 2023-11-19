@@ -1,0 +1,86 @@
+
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.( ôÁ”ûÿÿÿÿ8¦¸’›¾1
+¬
+java:S1192i"‰Define a constant instead of duplicating this literal "\u001B[31mĞĞ°Ñ‚Ğ¸ÑĞ½Ñ–Ñ‚ÑŒ Ğ²Ñ–Ğ´Ğ¿Ğ¾Ğ²Ñ–Ğ´Ğ½Ñƒ ĞºĞ½Ğ¾Ğ¿ĞºÑƒ\u001B[0m" 10 times.(ÓÄñÁúÿÿÿÿ8§¸’›¾1
+‡
+java:S1192w"eDefine a constant instead of duplicating this literal "0. ĞŸĞ¾Ğ²ĞµÑ€Ğ½ÑƒÑ‚Ğ¸ÑÑ Ğ½Ğ°Ğ·Ğ°Ğ´" 9 times.(§¸î‚øÿÿÿÿ8§¸’›¾1
+…
+java:S1192}"hDefine a constant instead of duplicating this literal "\u001B[32mĞ—Ğ±ĞµÑ€ĞµĞ¶ĞµĞ½Ğ¾!\u001B[0m" 20 times.(ãÔ‰ü8§¸’›¾1
+p
+java:S1104"SMake cpuName a static final constant or non-public and provide accessors if needed.(´ÕÉŠ8¨¸’›¾1
+v
+java:S1104"TMake cpuPrice a static final constant or non-public and provide accessors if needed.(È’Åáûÿÿÿÿ8¨¸’›¾1
+u
+java:S1104"SMake ramName a static final constant or non-public and provide accessors if needed.(¸ôóøÿÿÿÿ8¨¸’›¾1
+q
+java:S1104	"TMake ranPrice a static final constant or non-public and provide accessors if needed.(¡¼Ÿ„8¨¸’›¾1
+}
+java:S1104
+"[Make motherboardName a static final constant or non-public and provide accessors if needed.(êÃùÈúÿÿÿÿ8¨¸’›¾1
+y
+java:S1104"\Make motherboardPrice a static final constant or non-public and provide accessors if needed.(üá¹Ú8¨¸’›¾1
+u
+java:S1104"SMake hddName a static final constant or non-public and provide accessors if needed.(°—úóøÿÿÿÿ8¨¸’›¾1
+v
+java:S1104"TMake hddPrice a static final constant or non-public and provide accessors if needed.(ÇšÛ¸ıÿÿÿÿ8¨¸’›¾1
+x
+java:S1104"[Make powerSupplyName a static final constant or non-public and provide accessors if needed.(–›å8¨¸’›¾1
+x
+java:S1104"\Make powerSupplyPrice a static final constant or non-public and provide accessors if needed.(ØÏ¶$8¨¸’›¾1
+y
+java:S1104"\Make computerCaseName a static final constant or non-public and provide accessors if needed.(úÓÿâ8¨¸’›¾1
+
+java:S1104"]Make computerCasePrice a static final constant or non-public and provide accessors if needed.(‡ş÷®şÿÿÿÿ8¨¸’›¾1
+{
+java:S1104"YMake videoCardName a static final constant or non-public and provide accessors if needed.(ˆ ŞÜøÿÿÿÿ8¨¸’›¾1
+|
+java:S1104"ZMake videoCardPrice a static final constant or non-public and provide accessors if needed.(Ğèé©øÿÿÿÿ8¨¸’›¾1
+{
+java:S1104"YMake soundCardName a static final constant or non-public and provide accessors if needed.(ğ¹¹úÿÿÿÿ8¨¸’›¾1
+w
+java:S1104"ZMake soundCardPrice a static final constant or non-public and provide accessors if needed.(ˆª×é8¨¸’›¾1
+{
+java:S1104"^Make networkAdapterName a static final constant or non-public and provide accessors if needed.(¡ô§İ8¨¸’›¾1
+|
+java:S1104"_Make networkAdapterPrice a static final constant or non-public and provide accessors if needed.(òıßÍ8¨¸’›¾1
+J
+java:S1444"-Make this "public static cpuName" field final(´ÕÉŠ8¨¸’›¾1
+P
+java:S1444".Make this "public static cpuPrice" field final(È’Åáûÿÿÿÿ8¨¸’›¾1
+O
+java:S1444"-Make this "public static ramName" field final(¸ôóøÿÿÿÿ8¨¸’›¾1
+K
+java:S1444	".Make this "public static ranPrice" field final(¡¼Ÿ„8¨¸’›¾1
+W
+java:S1444
+"5Make this "public static motherboardName" field final(êÃùÈúÿÿÿÿ8¨¸’›¾1
+S
+java:S1444"6Make this "public static motherboardPrice" field final(üá¹Ú8¨¸’›¾1
+O
+java:S1444"-Make this "public static hddName" field final(°—úóøÿÿÿÿ8¨¸’›¾1
+P
+java:S1444".Make this "public static hddPrice" field final(ÇšÛ¸ıÿÿÿÿ8¨¸’›¾1
+R
+java:S1444"5Make this "public static powerSupplyName" field final(–›å8¨¸’›¾1
+R
+java:S1444"6Make this "public static powerSupplyPrice" field final(ØÏ¶$8¨¸’›¾1
+S
+java:S1444"6Make this "public static computerCaseName" field final(úÓÿâ8¨¸’›¾1
+Y
+java:S1444"7Make this "public static computerCasePrice" field final(‡ş÷®şÿÿÿÿ8¨¸’›¾1
+U
+java:S1444"3Make this "public static videoCardName" field final(ˆ ŞÜøÿÿÿÿ8¨¸’›¾1
+V
+java:S1444"4Make this "public static videoCardPrice" field final(Ğèé©øÿÿÿÿ8¨¸’›¾1
+U
+java:S1444"3Make this "public static soundCardName" field final(ğ¹¹úÿÿÿÿ8¨¸’›¾1
+Q
+java:S1444"4Make this "public static soundCardPrice" field final(ˆª×é8¨¸’›¾1
+U
+java:S1444"8Make this "public static networkAdapterName" field final(¡ô§İ8¨¸’›¾1
+V
+java:S1444"9Make this "public static networkAdapterPrice" field final(òıßÍ8¨¸’›¾1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ò”Ü8»¸’›¾1
+è
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 79 to 64, Complexity from 18 to 14, Nesting Level from 3 to 2, Number of Variables from 10 to 6.(‘„ÿ‰ıÿÿÿÿ8Ì¸’›¾1
